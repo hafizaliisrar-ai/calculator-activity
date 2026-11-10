@@ -1,0 +1,9 @@
+body{
+    font-family: Arial, sans-serif;
+}
+#app{
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 300px;
+}
